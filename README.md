@@ -14,9 +14,7 @@ Summary: Utilities to work with Data Packages as defined on dataprotocols.org
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/datapackage-py-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/datapackage-py-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/datapackage-py-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/datapackage-py-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/datapackage-py-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/datapackage-py-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/datapackage-py-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/datapackage-py-feedstock)
 
 Current release info
 ====================
